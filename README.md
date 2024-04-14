@@ -1,6 +1,6 @@
 # Stadium Security
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <p align="center">
   Università degli Studi di Padova
